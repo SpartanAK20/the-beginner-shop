@@ -1,0 +1,21 @@
+.btn a{
+	text-decoration: none;
+	color: white;
+}
+.btn{
+		background-color: #ff0000;
+		border-color: red;
+		border-width: 8px;
+		border-style: solid;
+		border-radius: 300px;
+		box-shadow: 6px 6px 6px #708090;
+}
+.btn:hover{
+	transition: transform 1ms;
+	transform: scale(1.1);
+	background-color: #ff9a00;
+	border-color: #ff9a00;
+}
+.nav{
+	background-color: #fff;
+}
